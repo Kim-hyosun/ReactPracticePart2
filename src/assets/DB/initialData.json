@@ -1,0 +1,40 @@
+{
+  "LushItems": [
+    {
+      "id": "0",
+      "title": "본파이어 190g",
+      "des": "배쓰밤",
+      "imgUrl": "lush1"
+    },
+    {
+      "id": "1",
+      "title": "더 컴포터 200g",
+      "des": "버블바",
+      "imgUrl": "lush2"
+    },
+    {
+      "id": "2",
+      "title": "브라이트사이드 200g",
+      "des": "배쓰밤",
+      "imgUrl": "lush3"
+    },
+    {
+      "id": "3",
+      "title": "슬리피200g",
+      "des": " 버블 바",
+      "imgUrl": "lush4"
+    },
+    {
+      "id": "4",
+      "title": "뉴 샴푸바",
+      "des": "착한고체샴푸 뿌리튼튼",
+      "imgUrl": "lush5"
+    },
+    {
+      "id": "5",
+      "title": "슬리피",
+      "des": "샤워젤",
+      "imgUrl": "lush6"
+    }
+  ]
+}
